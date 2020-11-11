@@ -1,7 +1,7 @@
-# Git Course
+# Visualization of Core Indicators
 
-Este é um repositorio teste para ensinar como Git funciona
+Visualization (idea follows below)
+Selection of an indicator →  Map and figure produced → Able to download the underlying data 
 
-Vou aproveitar para usa-lo como repositorio para meus projetos de data analyst. 
 
 
